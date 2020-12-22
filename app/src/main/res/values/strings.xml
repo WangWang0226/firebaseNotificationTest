@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firebaseNotification</string>
+    <string name="noti_channel_id" translatable="false">tcb_notification</string>
+</resources>
